@@ -6,3 +6,5 @@ download the data from links below
 1. Titanic --> https://www.kaggle.com/c/titanic/data
 2. Predict Future Sales --> https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
 3. Blue Book for Bulldozers --> https://www.kaggle.com/c/bluebook-for-bulldozers
+4. Digit Recoginizer MNIST --> https://www.kaggle.com/c/digit-recognizer
+
